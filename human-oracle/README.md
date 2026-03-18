@@ -75,7 +75,13 @@ The dice can be used as a standalone "navigation check" or combined with the [Fe
 - Standard plastic d6 (physical roll; no digital RNG)
 - 5-Eurocent copper coin (or any physical coin for spins)
 
-The use of physical randomness generators is a deliberate methodological choice, not an aesthetic one.
+The use of physical randomness generators is a deliberate methodological choice, not an aesthetic one. A physical die roll is a thermodynamic event generating genuine entropy through molecular collisions, surface friction, and thermal noise. An algorithmic PRNG (such as the Mersenne twister used by most LLMs) is a deterministic process that simulates statistical randomness from a seed while generating effectively zero physical entropy.
+
+This distinction may have theoretical significance beyond statistics. Research within the Multiphasic Model of Informational Psi (MMIΨ) suggests that the quality of precognitive information retrieval correlates with the entropic gradient of the target system — that is, how much thermodynamic disorder the target event generates (Marwaha & May, 2019; see also May, 2011, 2014; May & Depp, 2015). If this holds, physical HRNG would constitute a categorically richer signal source than algorithmic PRNG.
+
+This remains an open question. Nahm (2019) notes the entropy-success link is plausible and warrants further study, while also pointing out unresolved contradictions (e.g., comparisons between different REGs producing results opposite to entropy-based predictions). DELPHI does not commit to the MMIΨ model, but its methodology is compatible with the entropy hypothesis, and the HRNG/PRNG distinction is maintained as a precautionary design choice pending further empirical clarity.
+
+**Reference**: Marwaha, S. B., & May, E. C. (2019). Informational psi: Collapsing the problem space of psi phenomena. *Zeitschrift für Anomalistik*, 19, 12–51.
 
 ## Source
 
