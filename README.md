@@ -11,7 +11,7 @@ DELPHI is a dual divination framework with two complementary methods:
 - **Human Oracle** — A cyclical system using dice and elemental tantra psychology to map impulse, distortion, and liberation across psychoenergetic domains.
 - **Fey Oracle** — A dynamic system using archetypal cards and coin spins to weave "threads of fate" through past, present, and future positions.
 
-Both methods generate spin-direction data (up/down) that couples to I Ching hexagrams via the [Hexagram Echo Pairing Hypothesis (HEPH)](publications/spin-hexagram-coupling/), producing adjacent King Wen sequence pairs with consistent structural coherence.
+Both methods generate spin-direction data (up/down) that couples to I Ching hexagrams via the [Hexagram Echo Pairing Hypothesis (HEPH)](publications/DELPHI-Spin-Hexagram-Coupling_V3.0.pdf), producing adjacent King Wen sequence pairs with consistent structural coherence.
 
 Readings are conducted with physical hardware random number generators (plastic d6, copper coin) and AI-assisted card selection across multiple LLM platforms, deliberately rotating to control for model-specific PRNG bias.
 
