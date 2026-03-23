@@ -71,7 +71,7 @@ def spin_to_binary(spin):
 def derive_hexagrams(dice_spins, card_spins):
     """
     Derive two hexagrams from the 6 spin values.
-
+    
     Left-to-right (dice then cards), starting from top line:
     Line 6 (top) = dice[0] spin
     Line 5 = dice[1] spin
@@ -79,24 +79,25 @@ def derive_hexagrams(dice_spins, card_spins):
     Line 3 = card[0] spin
     Line 2 = card[1] spin
     Line 1 (bottom) = card[2] spin
-
+    
     Right-to-left reverses the order.
     """
     all_spins = dice_spins + card_spins
     all_reversed = list(reversed(all_spins))
-
-    # Convert to binary values (top line = most significant bit)
+    
+    # Build binary from BOTTOM to TOP (line 1 = bit 0, line 6 = bit 5)
     lr_binary = 0
     rl_binary = 0
-    for i, s in enumerate(all_spins):
-        lr_binary |= spin_to_binary(s) << (5 - i)
-    for i, s in enumerate(all_reversed):
-        rl_binary |= spin_to_binary(s) << (5 - i)
-
+    
+    for i in range(6):
+        # Reverse index: position 0 in all_spins = line 6 = bit 5
+        lr_binary |= spin_to_binary(all_spins[5-i]) << i
+        rl_binary |= spin_to_binary(all_reversed[5-i]) << i
+    
     lr_hex = KING_WEN.get(lr_binary, (0, "Unknown"))
     rl_hex = KING_WEN.get(rl_binary, (0, "Unknown"))
-
-    return lr_hex, rl_hex
+    
+    return rl_hex, lr_hex
 
 
 def generate_reading():

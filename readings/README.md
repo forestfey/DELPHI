@@ -30,7 +30,7 @@ A full DELPHI reading follows this sequence:
 - **Blind readings** (question withheld until after interpretation) are used for calibration and demonstration
 - **Cross-platform replication** (same spread interpreted independently by multiple LLM oracles) tests convergence
 
-## Calibration Example: "The Audio Cabinet" (January 2025)
+## Calibration Example: "The Audio Cabinet" (August 2024)
 
 This reading demonstrates DELPHI's practical pattern-matching with verifiable real-world feedback.
 
