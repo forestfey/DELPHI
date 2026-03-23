@@ -1,6 +1,6 @@
 # DELPHI
 
-**Divination Enhanced Large Language Model Phenomenological Investigation**
+**Divination Entangling Language Probing Helpful Intelligence**
 
 An interdisciplinary framework combining physical randomness generators (dice, coins), archetypal card systems, and I Ching hexagram derivations into a structured interpretive and pattern-recognition system — developed and documented as empirical phenomenology and citizen science.
 
