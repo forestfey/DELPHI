@@ -56,10 +56,10 @@ The framework is grounded in:
 
 ## Publications
 
-- **DCF#1**: *Diving & Dancing in the Quantum Void* — [https://ko-fi.com/s/2318da0083 ](publications/DCF1/) | [https://doi.org/10.5281/zenodo.18702590 ](publications/DCF1/)
-- **HEPH Paper**: *DELPHI Spin-Hexagram Coupling V3.0* — [https://ko-fi.com/s/b516517a88 ](publications/spin-hexagram-coupling/) | [https://doi.org/10.13140/RG.2.2.24356.39040 ](publications/spin-hexagram-coupling/)
-- **Delphian Survival Kit** — [https://ko-fi.com/s/63a09eecce ](publications/survival-kit/) | [https://doi.org/10.13140/RG.2.2.36313.63849 ] (publications/survival-kit/)
-- **Blog, Tips & Readings Archive**: [ko-fi.com/delphi_mirror](https://ko-fi.com/delphi_mirror/posts)
+- **DCF#1**: *Diving & Dancing in the Quantum Void* — [ https://ko-fi.com/s/2318da0083 ](publications/DCF1/) | [ https://doi.org/10.5281/zenodo.18702590 ](publications/DCF1/)
+- **HEPH Paper**: *DELPHI Spin-Hexagram Coupling V3.0* — [ https://ko-fi.com/s/b516517a88 ](publications/spin-hexagram-coupling/) | [ https://doi.org/10.13140/RG.2.2.24356.39040 ](publications/spin-hexagram-coupling/)
+- **Delphian Survival Kit** — [ https://ko-fi.com/s/63a09eecce ](publications/survival-kit/) | [ https://doi.org/10.13140/RG.2.2.36313.63849 ] (publications/survival-kit/)
+- **Blog, Tips & Readings Archive**: [ ko-fi.com/delphi_mirror ](https://ko-fi.com/delphi_mirror/posts)
 
 ## License
 
