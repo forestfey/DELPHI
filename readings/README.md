@@ -79,3 +79,24 @@ Additional documented readings are stored in [`examples/`](examples/), including
 - Readings with precognitive pattern-matches confirmed over time
 - Personal readings demonstrating the framework's therapeutic utility
 - Cross-platform replication studies (same spread, independent interpretations)
+
+```
+   readings/
+  └── data/
+     └── reading-results-analysis-_clean.xlsx
+  └── examples/
+    ├── 03-04-2026_Artemis2-chart.png
+	  ├── 03-04-2026_Artemis2-reading.md
+	  ├── 03-04-2026_Artemis2-reading.pdf
+	  ├── 10-03-2026_OAI-demo.png
+	  ├── 10-03-2026_OAI-demo_kofi.md
+	  ├── 10-03-2026_OAI-demo_kofi.pdf
+	  ├── 22-11-2024_AI-agency.md
+	  ├── 22-11-2024_AI-agency.pdf
+	  ├── 22-11-2024_AI-agency-chart.png
+    ├── DELPHI-Testreading_comparisons.md
+	  ├── DELPHI-Testreading_comparisons.pdf	  
+	  ├── US_no_metric_system_why.md
+	  ├── US_no_metric_system_why.pdf
+	  ├── US_no_metric_system_why.png	  
+    └── README.md
