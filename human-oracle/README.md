@@ -75,8 +75,8 @@ The interpretive framework draws from Vajrayana Buddhist psychology (particularl
 | **Water** | Fear of recognized threats | Anger, aggression, hatred | Clarity, mirror-wisdom, penetrating insight |
 | **Fire** | Isolation, loneliness, desolation | Obsessiveness, compulsion, consumerism | Discriminating wisdom, compassion |
 | **Air** | Vulnerability, anxiety, panic | Envy, suspicion, jealousy, paranoia | Spontaneous accomplishment, fluid action |
-| **Vortex** | Chaos, instability, loss | Destruction, fragmentation, disorder | Renewal, transformation, liberation |
-| **Star** | Restlessness, pursuit of growth | Hubris, megalomania, overconfidence | Enlightenment, growth, positive ambition |
+| **Vortex** | Chaos, inertia, loss, decay | Destruction, fragmentation, disorder, disintegration | Renewal, transformation, liberation |
+| **Star** | Restlessness, self-pity, compulsive expansion | Hubris, megalomania, overconfidence | Enlightenment, growth, thriving |
 
 For complete spin-direction interpretations per element per dice color, see [`dice-tables/`](dice-tables/).
 
