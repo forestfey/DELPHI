@@ -20,42 +20,42 @@ The Black die reflects obstacles, distorted perceptions, and shadow patterns. Sp
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Projecting compulsive or excessive energy onto external circumstances, leading to overreach or burnout. |
-| **Down ↓** | Containing and transforming obsessive tendencies, channeling them into focused self-work. |
+| **Down ↓** | Containing and indulging obsessive tendencies to over-stimulate oneself. |
 
 ### Air-2
 
 | Spin | Interpretation |
 |------|---------------|
-| **Up ↑** | Externalizing suspicion or paranoia, potentially straining connections or communication channels. |
-| **Down ↓** | Examining internal envy or self-doubt, seeking resolution and inner trust. |
+| **Up ↑** | Externalizing suspicion or envy, potentially straining connections or communication channels. |
+| **Down ↓** | Processing internal envy or self-doubt, seeking paranoid re-establishment of trust. |
 
 ### Earth-3
 
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Projecting internal rigidity outward, possibly leading to unyielding or domineering behavior. |
-| **Down ↓** | Turning inward to confront personal arrogance or attachment to rigid patterns. |
+| **Down ↓** | Turning inward to confront personal arrogance, demands of territory or attachment to rigid patterns. |
 
 ### Water-4
 
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Externalizing emotional turbulence, potentially manifesting as aggression or conflict with others. |
-| **Down ↓** | Reflecting on internal anger or aggression, seeking understanding and resolution. |
+| **Down ↓** | Reflecting on internal anger or aggression, seeking clear, but possibly forceful resolution. |
 
 ### Vortex-5
 
 | Spin | Interpretation |
 |------|---------------|
-| **Up ↑** | Projecting internal chaos or instability outward, potentially creating conflict or disorder. |
-| **Down ↓** | Addressing inner fragmentation or entropy, seeking personal balance amidst disorder. |
+| **Up ↑** | Projecting internal disorder outward, potentially creating friction or disintegration. |
+| **Down ↓** | Containing inner fragmentation, risking collapse into numbness and wilful ignorance. |
 
 ### Star-6
 
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Projecting overconfidence or grandiosity, potentially destabilizing external dynamics. |
-| **Down ↓** | Addressing internal overestimation or delusions, seeking humility and balance. |
+| **Down ↓** | Internalizing overestimation or delusions, seeking validation of superiority. |
 
 ## General Spin Principle
 
