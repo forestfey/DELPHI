@@ -12,4 +12,5 @@ Visual materials and files for the dice method, elemental wheel, and spin mechan
   └── assets/
       ├── divmethod-human-evo3X.pdf
 	  ├── humdice-tables-combined_X4.xlsx
+	  ├── humdice-tables-combined_X4.xlsx
       └── README.md
