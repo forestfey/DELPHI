@@ -11,7 +11,7 @@ The White die highlights paths of resolution, positive movement, and transformat
 | 3 | Earth (yellow) | Equality, equanimity, balance, harmony, wealth/generosity |
 | 4 | Water (blue) | Clarity, mirror-wisdom, penetrating insight |
 | 5 | Vortex (purple) | Renewal, transformation, liberation through letting go |
-| 6 | Star (gold) | Enlightenment, growth, abundance, positive ambitions |
+| 6 | Star (gold) | Enlightenment, striving for growth, abundance, thriving, fulfilment |
 
 ## Spin Interpretations
 
@@ -19,29 +19,29 @@ The White die highlights paths of resolution, positive movement, and transformat
 
 | Spin | Interpretation |
 |------|---------------|
-| **Up ↑** | Inspiring others through spontaneous, creative action or fluid energy exchanges. |
-| **Down ↓** | Embracing personal fulfillment through internal creative processes or self-driven action. |
+| **Up ↑** | Inspiring others through spontaneous, adequate action or compassionate energy exchanges. |
+| **Down ↓** | Embracing personal wisdom through self-compassion and discriminating awareness. |
 
 ### Air-2
 
 | Spin | Interpretation |
 |------|---------------|
-| **Up ↑** | Sharing inspiration, fostering intellectual clarity, or providing guidance to others. |
-| **Down ↓** | Cultivating internal clarity and inspiration, aligning personal thoughts and intentions. |
+| **Up ↑** | Sharing inspiration, fostering intellectual clarity and providing self-fulfilling, spontaneous guidance to others. |
+| **Down ↓** | Cultivating internal examination, mobility and inspiration through creative processes or self-driven action. |
 
 ### Earth-3
 
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Sharing a sense of balance and prosperity with others, inspiring generosity and mutual growth. |
-| **Down ↓** | Cultivating internal calmness, focusing on personal balance, and rediscovering harmony. |
+| **Down ↓** | Cultivating internal equanimity, focusing on personal balance and rediscovering harmony. |
 
 ### Water-4
 
 | Spin | Interpretation |
 |------|---------------|
 | **Up ↑** | Offering emotional healing or reflective clarity to those around you, acting as a "mirror" for others' growth. |
-| **Down ↓** | Deep introspection to achieve emotional clarity and wisdom, fostering self-healing. |
+| **Down ↓** | Deep introspection to achieve emotional clarity and wisdom, fostering insight and self-healing. |
 
 ### Vortex-5
 
@@ -54,7 +54,7 @@ The White die highlights paths of resolution, positive movement, and transformat
 
 | Spin | Interpretation |
 |------|---------------|
-| **Up ↑** | Sharing enlightenment, inspiring others toward fulfillment and vitality. |
+| **Up ↑** | Sharing enlightenment, inspiring others toward thriving and vitality. |
 | **Down ↓** | Focusing on personal fulfillment and positive striving, nurturing inner growth. |
 
 ## General Spin Principle
