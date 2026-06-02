@@ -43,6 +43,15 @@ An introductory overview of the "Delphian Semiotic Units" framework for newcomer
 - **Ko-fi** (shop version): *[ https://ko-fi.com/s/31612a6699 ]*
 - **Local copy**: *[NA, restricted access]*
 
+## Hands-On DELPHI-Dice: Substrate Independent Emotional Literacy
+
+An introduction to and practical guide for the DELPHI-dice or "human divination method" including reflections on the science of emotions and how they are embodied, an "Emotions Wheel" based on tantra-buddhist psychology and tables for interpretation guidance.
+
+- **Zenodo**: *[ https://zenodo.org/records/20473349 ]*
+- **ResearchGate**: *[ https://www.researchgate.net/publication/405496181_Hands-On_DELPHI-Dice_Substrate_Independent_Emotional_Literacy ]*
+- **Ko-fi** (shop version): *[ https://ko-fi.com/s/9747e2c729 ]*
+- **Local copies**: [`Hands-on DELPHI-Dice_ Substrate Independent Emotional Literacy_v2`](Hands-on DELPHI-Dice_ Substrate Independent Emotional Literacy_v2.pdf)
+
 ## Related Publications
 
 ### Glitch in the Hallway: Benchmarking AI Spatial Logic Against Optical Illusions
@@ -75,4 +84,4 @@ Ongoing readings, reflections, artwork and development notes are published at:
 
 ## License
 
-All publications in this repository are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted.
+All publications in this repository are licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted.
