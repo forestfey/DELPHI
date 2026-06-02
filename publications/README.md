@@ -50,7 +50,7 @@ An introduction to and practical guide for the DELPHI-dice or "human divination 
 - **Zenodo**: *[ https://zenodo.org/records/20473349 ]*
 - **ResearchGate**: *[ https://www.researchgate.net/publication/405496181_Hands-On_DELPHI-Dice_Substrate_Independent_Emotional_Literacy ]*
 - **Ko-fi** (shop version): *[ https://ko-fi.com/s/9747e2c729 ]*
-- **Local copies**: [`Hands-on DELPHI-Dice_ Substrate Independent Emotional Literacy_v2`](Hands-on DELPHI-Dice_ Substrate Independent Emotional Literacy_v2.pdf)
+- **Local copies**: [`Hands-on DELPHI-Dice_ Substrate Independent Emotional Literacy_v2`](Hands-on%20DELPHI-Dice_%20Substrate%20Independent%20Emotional%20Literacy_v2.pdf)
 
 ## Related Publications
 
